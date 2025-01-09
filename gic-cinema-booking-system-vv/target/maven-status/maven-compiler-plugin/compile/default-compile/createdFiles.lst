@@ -1,0 +1,5 @@
+com\gic\cinema\booking\Model\Movie.class
+com\gic\cinema\booking\Utils\Constants.class
+com\gic\cinema\booking\Model\Seat.class
+com\gic\cinema\booking\Utils\Util.class
+com\gic\cinema\booking\Model\Booking.class
